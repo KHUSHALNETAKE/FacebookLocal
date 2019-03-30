@@ -6,6 +6,7 @@ public class Hello {
   System.out.println(" 2.welcome to git khushal");
   System.out.println(" 3.enjoing git workshop");
   System.out.println(" 4.changes from eclips");
+  System.out.println(" 5.adding another one");
 	}
 
 }
